@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GAMZPRISM2
 - 👀 I’m interested in cybersecurity, and privacy, along with all things tech.
 - 🌱 I’m currently learning OSINT
-- 💞️ I’m looking to help on open source software such as OpenStreetMaps
+- 💞️ I’m helping on open source software such as OpenStreetMaps
 - 📫 How to reach me gamzprism@protonmail.com
 
 <!---
