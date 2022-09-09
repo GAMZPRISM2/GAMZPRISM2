@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GAMZPRISM2
+- 👋 Hi, I’m @GAMZPRISM
 - 👀 I’m interested in cybersecurity, and privacy, along with all things tech.
 - 🌱 I’m currently learning OSINT
 - 💞️ I’m helping on open source software such as OpenStreetMaps
